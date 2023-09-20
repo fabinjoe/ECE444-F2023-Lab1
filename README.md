@@ -15,4 +15,6 @@ Activity 4: a series of screenshots (plus corresponding commits/branch).
 ![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/38d226bf-05cc-487d-8c05-7b5fecdcb5f8)
 ![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/143c5d2f-2bb1-480a-83f7-bee44a78b1cf)
 ![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/275380c7-8b57-479b-a084-921011912600)
+![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/f928aad5-629d-4bb7-bb8d-91a7be0fd3e6)
+
 
