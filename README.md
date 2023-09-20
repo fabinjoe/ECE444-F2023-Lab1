@@ -11,3 +11,8 @@ This change was a simple one, and only targeted one template file, so I did it i
 ![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/8120a50b-1920-43a9-8952-73eea7a404f9)
 
 Activity 4: a series of screenshots (plus corresponding commits/branch).
+![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/4a2aabe2-5d54-4085-88ef-a1f84a7c9d97)
+![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/38d226bf-05cc-487d-8c05-7b5fecdcb5f8)
+![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/143c5d2f-2bb1-480a-83f7-bee44a78b1cf)
+![image](https://github.com/fabinjoe/ECE444-F2023-Lab1/assets/66658906/275380c7-8b57-479b-a084-921011912600)
+
